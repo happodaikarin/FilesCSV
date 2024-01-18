@@ -1,0 +1,111 @@
+producto_id,nombre,categoria
+1,Espresso,Bebidas Calientes
+2,Espresso Doble,Bebidas Calientes
+3,Café Campesino,Bebidas Calientes
+4,Café Americano,Bebidas Calientes
+5,Café Irlandés,Bebidas Calientes
+6,Capuccino,Bebidas Calientes
+7,Capuccino Caramelo,Bebidas Calientes
+8,Mocaccino,Bebidas Calientes
+9,Mocaccino Oreo,Bebidas Calientes
+10,Latte,Bebidas Calientes
+11,Carajillo,Bebidas Calientes
+12,Milo Caliente,Bebidas Calientes
+13,Aromática,Bebidas Calientes
+14,Amaretto,Bebidas Calientes
+15,Crema de Whisky,Adiciones
+16,Chantilly,Adiciones
+17,Brandy,Adiciones
+18,Ron,Adiciones
+19,Helado con Baileys,Postres
+20,Affogato,Postres
+21,Torta de Chocolate,Postres
+22,Papa Rock,Snacks
+23,Costillas BBQ,Snacks
+24,Alas BBQ,Snacks
+98,Hamburguesa de la Casa,Snacks - Comidas
+99,Nachos,Snacks - Comidas
+100,Tacos,Snacks - Comidas
+101,Quesadillas,Snacks - Comidas
+102,Aros de Cebolla,Snacks - Comidas
+103,Alitas de Pollo,Snacks - Comidas
+104,Palitos de Queso,Snacks - Comidas
+105,Rollitos de Primavera,Snacks - Comidas
+106,Deditos de Queso,Snacks - Comidas
+107,Empanadas,Snacks - Comidas
+108,Papas Bravas,Snacks - Comidas
+109,Molletes,Snacks - Comidas
+110,Ceviche de Camarones,Snacks - Comidas
+25,Margarita,Cocteles
+26,Whisky Sour,Cocteles
+27,3 Cordillera Blanca,Cervezas Artesanales
+28,3 Cordillera Negra,Cervezas Artesanales
+29,3 Cordillera Mulata,Cervezas Artesanales
+30,3 Cordillera Rosada,Cervezas Artesanales
+31,3 Cordillera Mestiza,Cervezas Artesanales
+32,BBC Chapinero,Cervezas Artesanales
+33,BBC Monserrate,Cervezas Artesanales
+34,BBC Cajicá,Cervezas Artesanales
+35,BBC Lager,Cervezas Artesanales
+36,3 Cordilleras Escandinava Maracuyá,Cervezas Artesanales
+37,3 Cordilleras Escandinava Jengibre,Cervezas Artesanales
+38,3 Cordilleras Escandinava Hidromiel,Cervezas Artesanales
+39,3 Cordilleras Escandinava Uva,Cervezas Artesanales
+40,3 Cordilleras Escandinava Freya,Cervezas Artesanales
+41,Antaño,Cervezas Artesanales
+42,Izzy,Cervezas Artesanales
+43,Lírica,Cervezas Artesanales
+44,Casilda,Cervezas Artesanales
+45,Mangozadera,Cervezas Artesanales
+46,Maria,Cervezas Artesanales
+47,Roja Magdalena,Cervezas Artesanales - Holy Water Ale
+48,Ginger Honey,Cervezas Artesanales - Holy Water Ale
+49,Mango,Cervezas Artesanales - Holy Water Ale
+50,Jamaica,Cervezas Artesanales - Holy Water Ale
+51,Summer Ale,Cervezas Artesanales - Holy Water Ale
+52,Yolanda,Cervezas Artesanales - Holy Water Ale
+53,Hefeweizen,Cervezas Artesanales - Holy Water Ale
+54,India Pale Ale,Cervezas Artesanales - Holy Water Ale
+55,Brown Honey Ale,Cervezas Artesanales - Holy Water Ale
+56,Artesanal Holy Water Ale,Cervezas Artesanales - Holy Water Ale
+57,Budweiser (EE. UU.),Cervezas Importadas
+58,Corona (México),Cervezas Importadas
+59,Heineken (Holanda),Cervezas Importadas
+60,Smirnoff Ice (Rusia),Cervezas Importadas
+61,Stella Artois (Bélgica),Cervezas Importadas
+62,Gulden Draak (Bélgica) - Blanca,Cervezas Importadas
+63,Gulden Draak (Bélgica) - Negra,Cervezas Importadas
+64,Weidman Super-Strong (Alemania),Cervezas Importadas - Blanca
+65,Weidman Super-Strong (Alemania) - Negra,Cervezas Importadas - Negra
+66,Delirium (Bélgica) - Tremes,Cervezas Importadas - Negra
+67,Delirium (Bélgica) - Nocturn,Cervezas Importadas - Negra
+68,Margarita,Cervezas Importadas
+69,Whisky Sour,Cervezas Importadas
+70,Cabeza de Jabalí,Cervezas Importadas
+71,Cocaína Rusa,Cervezas Importadas
+72,Tequila Sunrise,Tequila
+73,Margarita de Tequila,Tequila
+74,Bloody Maria,Tequila
+75,Sunset Punch,Tequila
+76,Cabernet Sauvignon,Vinos - Tintos
+77,Merlot,Vinos - Tintos
+78,Malbec,Vinos - Tintos
+79,Pinot Noir,Vinos - Tintos
+80,Syrah,Vinos - Tintos
+81,Chardonnay,Vinos - Blancos
+82,Sauvignon Blanc,Vinos - Blancos
+83,Riesling,Vinos - Blancos
+84,Pinot Grigio,Vinos - Blancos
+85,Gewürztraminer,Vinos - Blancos
+86,Rosé,Vinos - Rosados
+87,White Zinfandel,Vinos - Rosados
+88,Vodka,Destilados
+89,Ginebra,Destilados
+90,Rum,Destilados
+91,Whisky,Destilados
+92,Tequila,Destilados
+93,Mojito sin Alcohol,Sin Alcohol
+94,Piña Colada sin Alcohol,Sin Alcohol
+95,Virgin Mary,Sin Alcohol
+96,Margarita sin Alcohol,Sin Alcohol
+97,Frutas Mixtas sin Alcohol,Sin Alcohol
