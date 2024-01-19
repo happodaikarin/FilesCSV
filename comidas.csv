@@ -1,0 +1,19 @@
+producto_id,nombre,categoria,ingredientes
+22,Papa Rock,Snacks,"Papa"
+23,Costillas BBQ,Snacks,"Costillas, Salsa BBQ"
+24,Alas BBQ,Snacks,"Alas de pollo, Salsa BBQ"
+98,Hamburguesa de la Casa,Snacks - Comidas,"Carne de res, Queso, Pan, Aderezos"
+99,Nachos,Snacks - Comidas,"Tortillas de maíz, Queso, Guacamole, Jalapeños"
+100,Tacos,Snacks - Comidas,"Tortillas de maíz, Carne de res, Cebolla, Cilantro"
+101,Quesadillas,Snacks - Comidas,"Tortillas de harina, Queso, Pollo, Salsa"
+102,Aros de Cebolla,Snacks - Comidas,"Aros de cebolla, Rebozado"
+103,Alitas de Pollo,Snacks - Comidas,"Alas de pollo, Salsa, Aderezos"
+104,Palitos de Queso,Snacks - Comidas,"Palitos de queso, Salsa marinara"
+105,Rollitos de Primavera,Snacks - Comidas,"Masa de rollito, Vegetales, Salsa agridulce"
+106,Deditos de Queso,Snacks - Comidas,"Deditos de queso, Salsa de tomate"
+107,Empanadas,Snacks - Comidas,"Masa de empanada, Relleno (carne, pollo, queso), Salsa"
+108,Papas Bravas,Snacks - Comidas,"Papas, Salsa brava, Alioli"
+109,Molletes,Snacks - Comidas,"Pan bollo, Frijoles, Queso, Pico de gallo"
+110,Ceviche de Camarones,Snacks - Comidas,"Camarones, Limón, Cilantro, Tomate, Cebolla"
+
+

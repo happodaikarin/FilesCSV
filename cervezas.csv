@@ -1,0 +1,228 @@
+Name, Type, Color, Flavor, Aroma, Alcohol Percentage (v/v), Bitterness (IBUs), Craft,ID
+3 Cordilleras Blanca, Wheat Ale, Pale Yellow - Yellow, Smooth and fresh, Subtle floral notes, 4.6%, Low, Craft,1
+3 Cordilleras Mulata, Amber Ale, Dark Red, Malty with caramel hints, Woody finish, 5.2%, Medium, Craft,2
+3 Cordilleras Mestiza, American Pale Ale, Toasted Ochre, Citrusy taste, Floral and citrusy aromas, 4.8%, Medium, Craft,3
+3 Cordilleras Negra, Stout, Black, Strong character with chocolate and coffee flavors, Coffee and cocoa aroma, 6.4%, Medium, Craft,4
+3 Cordilleras Rosada, Rosé, Pale Pink, Perfect balance between sweetness and red fruits, Smooth, 3.8%, Low, Craft,5
+BBC Monserrate, Red Beer, Red, Fruity with a full body, Balanced, 5.0%, High, Craft,6
+BBC Cajica, Blond Beer, Blond, Smooth and refreshing, Honey sweetness, 5.3%, Medium, Craft,7
+BBC Bacatá, Wheat White Beer, White, Very smooth and refreshing, Orange peels and coriander, 4.1%, Low, Craft,8
+BBC Chapinero, Black Beer, Black, Robust and creamy, Toasted malt, 5.0%, Medium, Craft,9
+BBC Lager, Lager, Blond, Refreshing, Light, 5.0%, Low, Craft,10
+BBC Macondo, Stout, Black, Coffee infusion, Colombian Coffee, 5.0%, High, Craft,11
+Delirium Tremens, Belgian Strong Ale, Pale, Fruity with spices, Yeast and fruits, 8.5%, Medium, Craft,12
+Delirium Nocturnum, Belgian Dark Ale, Dark, Chocolate and caramel, Toasted malt and spices, 8.5%, Medium, Craft,13
+Delirium Red, Fruit Beer, Red, Sweet cherries, Cherries and almonds, 8.0%, Low, Craft,14
+Delirium Argentum, IPA, Amber, Bitter and citrusy, Hops and citrus, 7.0%, High, Craft,15
+Delirium Black, Belgian Strong Dark Ale, Black, Chocolate and coffee, Dark fruits and malt, 11.0%, Medium, Craft,16
+Chimay Blue, Belgian Strong Dark Ale, Dark Brown, Dark fruits and caramel, Spices and yeast, 9.0%, Medium, Craft,17
+Chimay Red, Dubbel, Dark Brown, Dark fruits and caramel, Spices and yeast, 7.0%, Low, Craft,18
+Chimay White, Tripel, Light Gold, Fruity and floral, Spices and yeast, 8.0%, Medium, Craft,19
+Duvel, Belgian Strong Pale Ale, Light Yellow, Fruity and spicy, Belgian yeast and hops, 8.5%, Medium, Craft,20
+Guinness Draught, Dry Stout, Black, Toasted and creamy, Coffee and roasted malt, 4.2%, High, Not Craft,21
+Guinness Extra Stout, Irish Stout, Black, Bitter and roasted, Chocolate and coffee, 6.0%, High, Not Craft,22
+Guinness Nitro IPA, Nitro IPA, Dark Amber, Fruity and bitter, Hops and citrus, 4.7%, High, Not Craft,23
+Guinness Milk Stout, Sweet Stout, Black, Sweet and smooth, Chocolate and vanilla, 4.0%, Low, Not Craft,24
+London Porter, English Porter, Dark Brown, Smooth and toasty, Chocolate and caramel, 5.4%, Low, Not Craft,25
+Corona Extra, Pale Lager, Pale, Crisp and light, Mild hop aroma, 4.6%, Low, Not Craft,26
+Budweiser, American Lager, Pale, Clean and crisp, Light floral notes, 5.0%, Medium, Not Craft,27
+Heineken, Euro Pale Lager, Pale, Balanced and mild, Light malty sweetness, 5.0%, Medium, Not Craft,28
+Miller Lite, Light Lager, Pale, Refreshing and light, Subtle maltiness, 4.2%, Low, Not Craft,29
+Coors Light, Light Lager, Pale, Cold and clean, Faint malt sweetness, 4.2%, Low, Not Craft,30
+Stella Artois, Euro Pale Lager, Pale, Crisp and slightly bitter, Floral hop aroma, 5.0%, Medium, Not Craft,31
+Guinness Draught, Dry Stout, Black, Toasted and creamy, Coffee and roasted malt, 4.2%, High, Not Craft,32
+Peroni Nastro Azzurro, Euro Pale Lager, Pale, Crisp and refreshing, Mild hop notes, 5.1%, Medium, Not Craft,33
+Grolsch Premium Lager, Euro Pale Lager, Pale, Crisp and slightly sweet, Subtle hop aroma, 5.0%, Medium, Not Craft,34
+Tennent's Lager, Euro Pale Lager, Pale, Malty sweetness, Balanced and smooth, 4.0%, Low, Not Craft,35
+Belhaven Scottish Ale, Scottish Ale, Amber, Malty and caramel notes, Low hop bitterness, 5.2%, Low, Not Craft,36
+Weihenstephaner Original, Munich Helles Lager, Pale, Bready and slightly sweet, Herbal hop aroma, 5.1%, Low, Not Craft,37
+Paulaner Hefe-Weizen, Hefeweizen, Pale, Fruity and spicy, Banana and clove aroma, 5.5%, Low, Not Craft,38
+Ayinger Celebrator Doppelbock, Doppelbock, Dark Brown, Rich and malty, Chocolate and toffee, 6.7%, Medium, Not Craft,39
+Augustiner Bräu Lagerbier Hell, Munich Helles Lager, Pale, Crisp and malt-forward, Slightly bitter finish, 5.2%, Low, Not Craft,40
+Poker, Pale Lager, Pale, Mild and crisp, Subtle hop notes, 4.0%, Low, Not Craft,41
+Águila, Pale Lager, Pale, Refreshing and light, Slight malt sweetness, 4.0%, Low, Not Craft,42
+Costeña, Vienna Lager, Amber, Malty with caramel notes, Balanced bitterness, 4.5%, Medium, Not Craft,43
+Club Colombia Dorada, Pale Lager, Pale, Smooth and balanced, Mild hop character, 4.7%, Low, Not Craft,44
+Club Colombia Roja, Amber Lager, Amber, Rich maltiness, Subtle toffee notes, 5.0%, Medium, Not Craft,45
+Club Colombia Negra, Munich Dunkel, Dark Brown, Toasted malt flavors, Caramel and chocolate, 5.5%, Medium, Not Craft,46
+Izzy, American Pale Ale, Golden, Moderate bitterness with citrus and floral aromas, 5.0%, 30, Craft,,47
+Lírica, Irish Red Ale, Intense Copper Red, Caramelized flavor with a slight bitterness, 5.0%, 25, Craft,,48
+Casilda, American Stout, Intense Black, Full-bodied, high notes of chocolate and coffee, 5.0%, 28, Craft,49
+Mangozadera, Gose Style Beer, Citrusy with Mango Biche and Sea Salt, Very refreshing, 5.0%, Not specified, Craft,,50
+Maria, Apple Cider with Blackberry, 4.0%, Not specified, Not specified, Craft,,,51
+Roja Magdalena, Red Ale, Red, Malty with Crystal and chocolate malts, 5.0%, 31, Craft,,52
+Ginger Honey, Modern Fusion Ale, Not specified, Perfect blend of Ginger and honey, 8.0%, 12, Craft,,53
+Mango, Fruit Ale, Not specified, Refreshing with fresh Mango and coriander seed, 6.0%, 19, Craft,,54
+Jamaica, Specialty Beer, Not specified, Brewed with Hibiscus flower for a tropical flavor, 8.0%, 12, Craft,,55
+Summer Ale, Blond Ale, Not specified, Variety of light malts with a slight hop bitterness, 5.0%, 22, Craft,,56
+Yolanda, Sweet Stout, Not specified, Tastes of caramel and nuts with toasted and chocolate malts, 7.5%, 22, Craft,,57
+Hefeweizen, German Wheat Ale, Not specified, Traditional German wheat beer, very refreshing with a light body, 5.5%, 29, Craft,58
+India Pale Ale, IPA, Not specified, Aromatic and intense hop flavor, high bitterness, 6.0%, 60, Craft,59
+Brown Honey Ale, Ale, Not specified, Brewed with smoked and roasted malts, with a touch of honey for sweetness, 8.0%, 19, Craft,60
+Escandinava Maracuyá, Blond Ale, Not specified, Citrusy aromas and flavors with moderate bitterness, 5.2%, 18, Craft,,61
+Escandinava Jengibre, Blond Ale, Not specified, Herbal aromas and flavors with moderate bitterness, 4.8%, 20, Craft,,62
+Escandinava Uva, Not specified, With added grape wine, Sweet aroma with fruity esters, Low to moderate foam, Creamy color, Sweet grape flavor, Craft,63
+Escandinava Freya, IPA, Not specified, Intense bitterness with citrus tones, 6.0%, 45, Craft,,64
+Black Stout Beer & Coffee Company, Stout, Black, Chocolate and coffee notes, Wheat, 5.0%, Not specified, Craft,65
+Red IPA Beer & Coffee Company, Red IPA, Red, Caramel and pine notes, Infused with activated Cannabis THC 30mg, Not specified, Not Craft,,66
+Hop Heaven, Double IPA, Golden, Intensely hoppy with tropical fruit notes, Strong bitterness, 8.0%, 60, Craft,67
+Summer Saison, Saison, Light Gold, Fruity and spicy, Refreshing, 6.2%, 25, Craft,68
+Midnight Porter, Porter, Dark Brown, Rich chocolate and roasted malt flavors, Moderate bitterness, 6.8%, 40, Craft,69
+Golden Wheat Bliss, Wheat Beer, Hazy Gold, Banana and clove, Light and refreshing, 4.5%, 18, Craft,70
+Forest Berry Sour, Sour Ale, Ruby Red, Tart and fruity, Blackberries and raspberries, 4.0%, 15, Craft,71
+Mango Tango, Fruit IPA, Orange, Mango-infused, Tropical hop character, 6.5%, 45, Craft,72
+Oatmeal Cookie Stout, Oatmeal Stout, Deep Brown, Sweet and spiced, Oatmeal and cinnamon, 7.0%, 30, Craft,73
+Sunset Amber, Amber Ale, Deep Amber, Caramel malt sweetness, Mild bitterness, 5.8%, 28, Craft,74
+Barrel-Aged Barleywine, Barleywine, Deep Amber, Rich and malty, Aged in oak barrels, 11.0%, 50, Craft,75
+Red Velvet Ale, Irish Red Ale, Red, Smooth caramel sweetness, Balanced bitterness, 5.0%, 25, Craft,76
+Crimson Amber, Amber Ale, Deep Red, Toasted malt with toffee notes, Moderate bitterness, 6.2%, 30, Craft,77
+Scarlet Sunrise, Red IPA, Amber, Citrusy and piney hops, Medium-high bitterness, 7.0%, 40, Craft,78
+Ruby Red Saison, Saison, Ruby Red, Fruity and spicy, Refreshing, 5.5%, 28, Craft,79
+Cherry Bomb, Fruit Beer, Dark Red, Sweet cherries, Subtle tartness, 4.8%, 20, Craft,80
+Rojo Diablo, Belgian Red Ale, Deep Red, Rich malt complexity, Belgian yeast, 7.5%, 35, Craft,81
+Cranberry Crush, Fruit Sour, Ruby Red, Tart cranberries, Light and effervescent, 4.2%, 15, Craft,82
+Autumn Ember, Red Ale, Copper, Nutty and malty, Mild hop bitterness, 5.3%, 22, Craft,83
+Rosy Cheeks, Raspberry Ale, Pink, Raspberry sweetness, Crisp and fruity, 4.5%, 18, Craft,84
+Amber Elegance, Amber Lager, Amber, Caramel malt profile, Clean and well-balanced, 5.0%, 25, Craft,85
+Midnight Stout, Stout, Black, Roasted coffee and chocolate, Creamy mouthfeel, 6.0%, 40, Craft,86
+Obsidian Night, Black IPA, Dark Brown, Hoppy with dark malt bitterness, Citrusy notes, 7.5%, 60, Craft,87
+Onyx Porter, Porter, Dark Brown, Smooth with hints of toffee, Medium bitterness, 5.8%, 30, Craft,88
+Coal Miner's Delight, Smoked Porter, Black, Smoky and robust, Bacon undertones, 7.2%, 35, Craft,89
+Blackberry Bliss, Fruit Stout, Dark Purple, Sweet blackberries, Chocolate and coffee, 6.5%, 25, Craft,90
+Dark Elixir, Belgian Dark Ale, Deep Brown, Rich and malty, Belgian yeast, 8.0%, 28, Craft,91
+Espresso Infusion, Coffee Stout, Jet Black, Intense coffee flavor, Silky smooth, 7.5%, 45, Craft,92
+Chocolate Obsession, Chocolate Stout, Ebony, Luscious chocolate, Creamy texture, 6.8%, 40, Craft,93
+Velvet Shadow, Black Lager, Black, Clean and crisp, Subtle roasted malt, 5.0%, 20, Craft,94
+Mystic Abyss, Russian Imperial Stout, Pitch Black, Bold and complex, Dark fruit and toffee, 10.0%, 75, Craft,95
+Golden Sunshine, Blonde Ale, Pale Gold, Biscuity malt with a touch of honey, Mild bitterness, 4.8%, 20, Craft,96
+Summer Breeze, American Pale Ale, Light Amber, Citrus and pine hop character, Refreshing, 5.2%, 30, Craft,97
+Hazy Horizon, Hazy IPA, Golden, Juicy and tropical, Low bitterness, 6.0%, 35, Craft,98
+Blonde Ambition, Belgian Blonde Ale, Straw, Fruity and spicy, Belgian yeast, 6.5%, 25, Craft,99
+Citrus Zest, Citrus Blonde Ale, Pale Yellow, Lemon and orange zest, Crisp and clean, 4.5%, 15, Craft,100
+Honey Wheat Harmony, Honey Wheat Ale, Light Gold, Sweet honey and wheat, Smooth finish, 5.0%, 18, Craft,101
+Pilsner Paradise, Pilsner, Pale Yellow, Crisp and refreshing, Noble hops, 5.3%, 25, Craft,102
+Sunflower Saison, Saison, Golden, Floral and peppery, Effervescent, 6.0%, 22, Craft,103
+Tropical Bliss, Tropical Pale Ale, Amber, Pineapple and mango, Tropical hop blend, 5.5%, 28, Craft,104
+Summer Wheat Symphony, Wheat Beer, Hazy Gold, Banana and clove, Light and refreshing, 4.2%, 15, Craft,105
+Hoppy Heaven IPA, IPA, Ámbar, Explosión de lúpulos cítricos, Amargor pronunciado, 6.5%, 50, Artesanal,106
+Citrus Burst IPA, IPA, Dorado Anaranjado, Notas intensas de cítricos, Final seco, 7.0%, 55, Artesanal,107
+Pine Resin Resurgence, Double IPA, Ámbar Profundo, Resina de pino y frutas tropicales, Potente, 8.5%, 70, Artesanal,108
+Tropical Storm IPA, Session IPA, Amarillo Brillante, Tormenta de sabores tropicales, Ligera, 4.2%, 30, Artesanal,109
+Hazy Horizon IPA, NEIPA, Amarillo Anaranjado, Textura aterciopelada, Lúpulos jugosos, 6.8%, 40, Artesanal,110
+Bold Citra IPA, IPA, Ámbar Claro, Enfocado en lúpulo Citra, Amargor equilibrado, 6.0%, 45, Artesanal,111
+Midnight Hop Madness, Black IPA, Negro, Lúpulo y maltas tostadas, Amargor robusto, 7.2%, 60, Artesanal,112
+Juicy Mango Infusion, Fruit IPA, Amarillo Dorado, Mango fresco y lúpulos frutales, Refrescante, 5.5%, 35, Artesanal,113
+Resilient Rye IPA, Rye IPA, Ámbar Profundo, Especias de centeno y lúpulos, Final seco, 6.3%, 50, Artesanal,114
+Citra Simcoe Showdown, Double IPA, Ámbar Intenso, Duelo de lúpulos Citra y Simcoe, Potencia aromática, 8.0%, 65, Artesanal,115
+Electric Pineapple IPA, IPA, Amarillo Brillante, Piña fresca y toques tropicales, Vibrante, 6.2%, 40, Artesanal,116
+Galactic Galaxy IPA, IPA, Amarillo Anaranjado, Lúpulo Galaxy con notas cósmicas, Compleja, 7.5%, 55, Artesanal,117
+Raging Citrus Inferno, Triple IPA, Dorado Anaranjado, Explosión de cítricos y amargor, Intensa, 10.0%, 80, Artesanal,118
+Serene Summit Session IPA, Session IPA, Amarillo Pálido, Fresca y fácil de beber, Lúpulos florales, 4.5%, 25, Artesanal,119
+Mystic Mosaic IPA, IPA, Ámbar Claro, Lúpulo Mosaic con toques místicos, Amargor persistente, 6.7%, 50, Artesanal,120
+Passionfruit Paradise Ale, Fruit Ale, Amarillo Brillante, Explosión de maracuyá, Dulzura tropical, 5.2%, 25, Artesanal,121
+Raspberry Ripple Delight, Fruit IPA, Rosado Vibrante, Frambuesas frescas y lúpulos frutales, Refrescante, 6.0%, 30, Artesanal,122
+Pineapple Bliss Lager, Fruit Lager, Amarillo Claro, Piña jugosa con base lager, Ligera y tropical, 4.8%, 20, Artesanal,123
+Mango Tango Wheat Beer, Fruit Wheat Ale, Amarillo Dorado, Mango fresco y trigo, Sabor a baile tropical, 5.5%, 22, Artesanal,124
+Blueberry Burst Sour, Fruit Sour Ale, Morado Intenso, Explosión de arándanos, Acidez refrescante, 4.5%, 18, Artesanal,125
+Citrus Symphony Saison, Fruit Saison, Amarillo Anaranjado, Mezcla cítrica y especiada, Notas de levadura, 6.3%, 28, Artesanal,126
+Cherry Blossom Euphoria, Fruit Ale, Rojo Cereza, Cerezas frescas con toques florales, Equilibrio perfecto, 5.8%, 26, Artesanal,127
+Watermelon Wave Wheat, Fruit Wheat Ale, Rosado Claro, Sandía jugosa y trigo, Veraniega y refrescante, 5.0%, 20, Artesanal,128
+Apricot Aurora Amber, Fruit Amber Ale, Naranja Ámbar, Albaricoques maduros, Cuerpo maltoso, 6.2%, 24, Artesanal,129
+Kiwi Kaleidoscope Kölsch, Fruit Kölsch, Verde Brillante, Kiwi fresco con base de Kölsch, Suavidad fácil de beber, 4.7%, 18, Artesanal,130
+Guava Grove Gose, Fruit Gose, Amarillo Pálido, Guayaba tropical y sal marina, Complejidad refrescante, 4.5%, 16, Artesanal,131
+Blackberry Bliss Porter, Fruit Porter, Morado Oscuro, Moras frescas y maltas tostadas, Dulce y robusta, 6.5%, 30, Artesanal,132
+Peachy Keen Cream Ale, Fruit Cream Ale, Amarillo Melocotón, Duraznos jugosos y cremosidad, Suave y sedosa, 5.0%, 22, Artesanal,133
+Plum Paradise Pilsner, Fruit Pilsner, Púrpura Intenso, Ciruelas frescas con base pilsner, Final limpio, 4.8%, 20, Artesanal,134
+Orange Blossom Hefeweizen, Fruit Hefeweizen, Naranja Brillante, Flor de naranjo y trigo, Aromas cítricos, 5.3%, 24, Artesanal,135
+Lemon Lime Lager, Fruit Lager, Amarillo Limón, Explosión cítrica de limón y lima, Refrescante y vibrante, 4.5%, 18, Artesanal,136
+Cranberry Cascade Sour, Fruit Sour Ale, Rojo Arándano, Arándanos agrios y base ácida, Perfecta para el verano, 4.2%, 16, Artesanal,137
+Strawberry Serenity Wheat, Fruit Wheat Ale, Rojo Fresa, Fresas frescas con trigo, Sutileza y frescura, 5.4%, 22, Artesanal,138
+Passion Punch Pale Ale, Fruit Pale Ale, Amarillo Pasión, Golpe de maracuyá y lúpulos frutales, Tropical y equilibrada, 5.8%, 28, Artesanal,139
+Grapefruit Grove IPA, Fruit IPA, Amarillo Pomelo, Pomelo fresco y lúpulos cítricos, Amargor y frescura, 6.5%, 35, Artesanal,140
+Weihenstephaner Hefeweissbier, Hefeweizen, Amarillo Dorado, Banana y clavo, Notas de levadura, 5.4%, 14, Alemana,141
+Ayinger Bräuweisse, Hefeweizen, Amarillo Brillante, Malta de trigo y notas de plátano, Suavidad y frescura, 5.1%, 17, Alemana,142
+Paulaner Original Münchner, Munich Helles Lager, Dorado Claro, Malta dulce con lúpulo floral, Refrescante y equilibrada, 4.9%, 20, Alemana,143
+Augustiner Bräu Lagerbier, Munich Helles Lager, Dorado Pálido, Malta suave y ligeramente amarga, Final limpio, 5.2%, 18, Alemana,144
+Erdinger Weissbier, Hefeweizen, Amarillo Pálido, Notas de plátano y trigo, Cuerpo medio, 5.3%, 14, Alemana,145
+Köstritzer Schwarzbier, Schwarzbier, Negro, Malta tostada con ligero amargor, Suave y fácil de beber, 4.8%, 25, Alemana,146
+Schneider Weisse Aventinus, Weizenbock, Marrón Oscuro, Frutas oscuras y toques de clavo, Compleja y robusta, 8.2%, 16, Alemana,147
+Hofbräu München Original, Helles Lager, Dorado Brillante, Malta y lúpulo equilibrados, Fresca y suave, 5.1%, 22, Alemana,148
+Warsteiner Premium Verum, German Pilsner, Dorado Claro, Malta y lúpulo noble, Refrescante y amarga, 4.8%, 22, Alemana,149
+Andechs Doppelbock Dunkel, Doppelbock, Marrón Oscuro, Malta caramelizada y frutas oscuras, Dulce y robusta, 7.1%, 25, Alemana,150
+Maisel's Weisse Original, Hefeweizen, Amarillo Opaco, Notas de plátano y clavo, Cuerpo medio, 5.4%, 12, Alemana,151
+Bitburger Premium Pilsner, German Pilsner, Dorado Claro, Malta y lúpulo herbal, Final seco y amargo, 4.8%, 38, Alemana,152
+Franziskaner Hefe-Weissbier, Hefeweizen, Amarillo Pálido, Malta de trigo y levadura, Frescura frutal, 5.0%, 12, Alemana,153
+Gaffel Kölsch, Kölsch, Amarillo Pálido, Delicada malta y lúpulo floral, Cuerpo ligero y refrescante, 4.8%, 20, Alemana,154
+Weltenburger Kloster Asam-Bock, Doppelbock, Marrón Oscuro, Malta tostada y frutas maduras, Dulzura equilibrada, 6.9%, 25, Alemana,155
+Andechs Vollbier Hell, Munich Helles Lager, Dorado Brillante, Malta suave y lúpulo floral, Cuerpo ligero, 4.8%, 21, Alemana,156
+Rothaus Pils Tannenzäpfle, German Pilsner, Dorado Pálido, Lúpulo herbal y malta, Final amargo y seco, 5.1%, 40, Alemana,157
+Weihenstephaner Vitus, Weizenbock, Amarillo Dorado, Banana y especias, Cuerpo completo, 7.7%, 17, Alemana,158
+Veltins Pilsner, German Pilsner, Dorado Brillante, Refrescante con toques de malta, Final seco, 4.8%, 40, Alemana,159
+Mönchshof Schwarzbier, Schwarzbier, Marrón Oscuro, Chocolate y café con toques dulces, Suave y bebible, 4.9%, 28, Alemana,160
+Westmalle Dubbel, Dubbel, Marrón Oscuro, Frutas oscuras y caramelo, Levadura belga, 7.0%, 24, Belga,161
+Chimay Grande Réserve (Blue), Belgian Strong Dark Ale, Marrón Oscuro, Frutas oscuras y especias, Compleja y robusta, 9.0%, 35, Belga,162
+Duvel, Belgian Strong Pale Ale, Amarillo Brillante, Afrutada y especiada, Final seco, 8.5%, 32, Belga,163
+Orval, Belgian Pale Ale, Ámbar, Frutas cítricas y levadura, Toques de lúpulo, 6.2%, 40, Belga,164
+Rochefort 10, Quadrupel, Marrón Oscuro, Pasas y caramelo, Cuerpo completo, 11.3%, 27, Belga,165
+St. Bernardus Abt 12, Quadrupel, Marrón Oscuro, Frutas oscuras y caramelo, Licorosa y suave, 10.0%, 22, Belga,166
+La Chouffe, Belgian Strong Pale Ale, Dorado Claro, Frutas tropicales y especias, Refrescante, 8.0%, 20, Belga,167
+Rodenbach Grand Cru, Flanders Red Ale, Rojo Rubí, Vinosa y avinagrada, Sabor complejo, 6.0%, 35, Belga,168
+Westvleteren 12 (XII), Quadrupel, Marrón Oscuro, Frutas oscuras y cacao, Excepcional y equilibrada, 10.2%, 27, Belga,169
+Delirium Tremens, Belgian Strong Ale, Pálido, Frutal con especias, Levadura y frutas, 8.5%, 26, Belga,170
+Kwak, Belgian Strong Pale Ale, Ámbar Oscuro, Caramelo y frutas, Presentación única, 8.4%, 18, Belga,171
+Tripel Karmeliet, Tripel, Dorado Brillante, Cítricos y especias, Complejidad aromática, 8.4%, 20, Belga,172
+Gulden Draak, Belgian Strong Dark Ale, Marrón Oscuro, Caramelo oscuro y pasas, Licorosa y rica, 10.5%, 30, Belga,173
+Rochefort 8, Belgian Strong Dark Ale, Marrón Oscuro, Frutas oscuras y especias, Suave y equilibrada, 9.2%, 21, Belga,174
+Piraat, Belgian Strong Pale Ale, Ámbar Dorado, Frutas tropicales y caramelo, Potente y compleja, 10.5%, 32, Belga,175
+Leffe Brune, Dubbel, Marrón Oscuro, Caramelo y pasas, Levadura belga, 6.5%, 20, Belga,176
+Affligem Tripel, Tripel, Dorado Brillante, Frutas y especias, Cuerpo medio, 9.5%, 22, Belga,177
+Chimay Cinq Cents (White), Tripel, Dorado Pálido, Frutas y especias, Levadura belga, 8.0%, 40, Belga,178
+Westmalle Tripel, Tripel, Dorado Brillante, Frutas tropicales y especias, Cuerpo medio, 9.5%, 38, Belga,179
+Lindemans Framboise, Fruit Lambic, Rojo Frambuesa, Frambuesas dulces y ácidas, Refrescante, 2.5%, - , Belga,180
+Fuller's ESB, Extra Special Bitter (ESB), Ámbar, Caramelo y frutas oscuras, Amargor moderado, 5.9%, 34, Inglesa,181
+Newcastle Brown Ale, Brown Ale, Marrón Oscuro, Caramelo y frutos secos, Suave y equilibrada, 4.7%, 26, Inglesa,182
+Samuel Smith's Oatmeal Stout, Oatmeal Stout, Negro, Avena y chocolate, Cremosa y sedosa, 5.0%, 32, Inglesa,183
+Bass Pale Ale, English Pale Ale, Ámbar, Malta tostada con notas florales, Final seco, 5.1%, 32, Inglesa,184
+Timothy Taylor's Landlord, Bitter, Dorado Brillante, Malta tostada con lúpulo floral, Amargor persistente, 4.1%, 32, Inglesa,185
+Fuller's London Porter, English Porter, Marrón Oscuro, Chocolate y toffee, Suave y tostada, 5.4%, 40, Inglesa,186
+Old Speckled Hen, English Pale Ale, Ámbar, Caramelo y frutos secos, Final dulce, 5.2%, 27, Inglesa,187
+Adnams Broadside, English Strong Ale, Ámbar Oscuro, Caramelo y frutas maduras, Licorosa y compleja, 6.3%, 30, Inglesa,188
+Greene King Abbot Ale, English Pale Ale, Ámbar Oscuro, Malta caramelo con notas afrutadas, Cuerpo medio, 5.0%, 27, Inglesa,189
+Fuller's London Pride, English Pale Ale, Ámbar, Caramelo y tostado, Equilibrada y clásica, 4.7%, 28, Inglesa,190
+Samuel Smith's Organic Chocolate Stout, Chocolate Stout, Negro, Chocolate oscuro y tostado, Dulce y sedosa, 5.0%, 28, Inglesa,191
+Wychwood Hobgoblin, English Brown Ale, Marrón Oscuro, Caramelo y toffee, Ligera y sabrosa, 5.2%, 28, Inglesa,192
+Theakston Old Peculier, English Strong Ale, Marrón Oscuro, Frutas oscuras y caramelo, Compleja y rica, 5.6%, 32, Inglesa,193
+Robinsons Trooper, English Extra Special Bitter (ESB), Ámbar, Malta tostada y cítricos, Final seco, 4.7%, 45, Inglesa,194
+Marston's Pedigree, English Bitter, Ámbar, Caramelo y frutos secos, Amargor sutil, 4.5%, 28, Inglesa,195
+St. Austell Tribute, English Pale Ale, Dorado Brillante, Malta y lúpulo floral, Refrescante y suave, 4.2%, 32, Inglesa,196
+Young's Double Chocolate Stout, Chocolate Stout, Negro, Chocolate y toffee, Final dulce, 5.2%, 25, Inglesa,197
+Shepherd Neame Spitfire, English Bitter, Ámbar, Caramelo y frutos secos, Amargor equilibrado, 4.2%, 28, Inglesa,198
+Tropical Citrus IPA, IPA, Ámbar, Intenso aroma cítrico, Notas tropicales, 6.5%, 45, Cítrica,199
+Lemon Zest Wheat, Wheat Ale, Amarillo Pálido, Refrescante con toque a limón, Cuerpo ligero, 4.8%, 20, Cítrica,200
+Orange Peel Pale Ale, American Pale Ale, Ámbar, Cáscara de naranja, Equilibrio cítrico, 5.2%, 30, Cítrica,201
+Grapefruit Session IPA, Session IPA, Dorado Brillante, Explosión de toronja, Ligera y fácil de beber, 4.0%, 25, Cítrica,202
+Lime Squeeze Lager, Lager, Amarillo Pálido, Toque de lima, Refrescante y suave, 4.5%, 15, Cítrica,203
+Citrus Blonde Ale, Blonde Ale, Dorado Brillante, Mezcla cítrica, Ligera y aromática, 5.0%, 18, Cítrica,204
+Tangerine Dream Hefeweizen, Hefeweizen, Amarillo Pálido, Notas de mandarina, Suave y afrutada, 5.3%, 20, Cítrica,205
+Lemonade Shandy, Shandy, Amarillo Pálido, Mezcla de limón y cerveza, Muy refrescante, 4.2%, 10, Cítrica,206
+Citrus Burst Sour, Sour Ale, Amarillo Brillante, Explosión cítrica ácida, Acidez refrescante, 5.5%, 15, Cítrica,207
+Blood Orange Belgian Wit, Belgian Witbier, Amarillo Pálido, Toque de naranja sanguina, Especiada y cítrica, 5.8%, 18, Cítrica,208
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

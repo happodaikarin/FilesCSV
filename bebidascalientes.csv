@@ -1,0 +1,16 @@
+producto_id,nombre,categoria,ingredientes
+1,Espresso,Bebidas Calientes,"Café"
+2,Espresso Doble,Bebidas Calientes,"Café"
+3,Café Campesino,Bebidas Calientes,"Café, Leche, Azúcar"
+4,Café Americano,Bebidas Calientes,"Café, Agua"
+5,Café Irlandés,Bebidas Calientes,"Café, Whisky, Crema"
+6,Capuccino,Bebidas Calientes,"Café, Leche Espumosa"
+7,Capuccino Caramelo,Bebidas Calientes,"Café, Leche Espumosa, Jarabe de Caramelo"
+8,Mocaccino,Bebidas Calientes,"Café, Leche, Chocolate"
+9,Mocaccino Oreo,Bebidas Calientes,"Café, Leche, Chocolate, Galletas Oreo"
+10,Latte,Bebidas Calientes,"Café, Leche"
+11,Carajillo,Bebidas Calientes,"Café, Licor"
+12,Milo Caliente,Bebidas Calientes,"Milo"
+13,Aromática,Bebidas Calientes,"Hierbas Aromáticas"
+14,Amaretto,Bebidas Calientes,"Café, Licor de Amaretto"
+
